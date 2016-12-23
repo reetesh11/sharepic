@@ -1,1 +1,1 @@
-web: gunicorn sharepic.wsgi --log-file -
+web: gunicorn uploadpics.wsgi --log-file -
